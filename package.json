@@ -1,0 +1,8 @@
+{
+  "name": "dr-lyric-public-beta",
+  "version": "0.3.1",
+  "private": true,
+  "dependencies": {
+    "@vercel/oidc": "latest"
+  }
+}
